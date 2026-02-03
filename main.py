@@ -3,7 +3,7 @@ from bot_logic import gen_pass
 from telebot.types import ReactionTypeEmoji
 
 
-token = '8453865910:AAFZc2PIu_0vM9hilXfJRZV9sQOptRXvPcs'
+token = ''
 bot = telebot.TeleBot(token)
     
 
